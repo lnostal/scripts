@@ -1,0 +1,14 @@
+key;flag;ru;en;fr;it;ge;sp
+WELCOME_Label;;Добро пожаловать :);Welcome :);;;;
+WELCOME_Button;;Какая-то кнопка;This is a button;;;;
+WELCOME_TextFieldHint;;Какая-то подсказка;This is a hint;;;;
+;;;;;;;
+SETTINGS_Title;;Настройки;Settings;;;;
+SETTINGS_ColorScheme;;Изменить цветовую схему;Change color scheme;;;;
+SETTINGS_AndroidVersion;android;Версия Android;Android version;;;;
+SETTINGS_ColorSchemeSetBlue;;Синяя;Blue;;;;
+SETTINGS_ColorSchemeSetGreen;;Зеленая;Green;;;;
+;;;;;;;
+ALERT_SaveSettingsTitle;ios;Сохранение настроек;Save;;;;
+ALERT_SaveSettingsSuccessMessage;;Настройки успешно сохранены;Settings was saved successfully;;;;
+ALERT_ButtonOk;ios;Ок;Ok;;;;
